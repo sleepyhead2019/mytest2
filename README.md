@@ -1,2 +1,1 @@
-# mytest2
-test2
+这是一个mytest2
